@@ -1,5 +1,5 @@
 {
-  "name": "typescript-package-starter",
+  "name": "@muath-ye/typescript-package-starter",
   "version": "1.0.3",
   "description": "TypeScript boilerplate for NPM or Github Packages",
   "main": "dist/index.js",
